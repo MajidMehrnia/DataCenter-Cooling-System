@@ -33,7 +33,7 @@ A professional workflow for modeling and optimizing data center cooling systems 
 
 <hr color="gray" size="10">
 
-## Create & Analyze Datacenter for HVAC Requirements.
+## Create & Analyze Data Center for HVAC Requirements.
 <table>
   <tr>
     <td class="image-column" width=400><img src="ScriptsData/Images/SimscapeDatacenterModelREADME.png" alt="Datacenter Heat Load Analysis"></td>
