@@ -8,9 +8,7 @@
 
 <table>
   <tr>
-    <td class="text-column" width=1200>This project contains Simscape&trade; 
-    custom libraries and utilities that can help you create large buildings 
-    and analyze their thermal comfort. The project also contains utilities 
+    <td class="text-column" width=1200>The project contains utilities 
     that help you build and analyze a data center from a thermal management 
     perspective.
     </td>
