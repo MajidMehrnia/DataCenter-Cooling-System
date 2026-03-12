@@ -57,6 +57,26 @@ A professional workflow for modeling and optimizing data center cooling systems 
 
 <hr color="gray" size="10">
 
+## Analyze Building for HVAC Requirements.
+<table>
+  <tr>
+    <td class="text-column" width=400>Evaluate the impact on energy consumption 
+    from operational parameters linked to time of the day. Example operational 
+    parameters include number of occupants at a given day and time, additional 
+    electrical loads, or any other heat source in the room.</td>
+    <td class="image-column" width=400><img src="ScriptsData/Images/SimscapeBuildingHeatLoadREADME.png" alt="Building Heat Load Analysis Canvas"></td>
+    <td class="image-column" width=400><img src="ScriptsData/Images/SimscapeBuildingSimulationREADME.gif" alt="Building Heat Load Analysis Results"></td>
+  </tr>
+</table>
+ 
+<table>
+  <tr>
+    <td class="text-column" width=1200></td>
+  </tr>
+</table>
+
+<hr color="gray" size="10">
+
 ## Create Building Library.
 <table>
   <tr>
@@ -79,28 +99,6 @@ A professional workflow for modeling and optimizing data center cooling systems 
 </table>
 
 <hr color="gray" size="10">
-
-## Analyze Building for HVAC Requirements.
-<table>
-  <tr>
-    <td class="text-column" width=400>Evaluate the impact on energy consumption 
-    from operational parameters linked to time of the day. Example operational 
-    parameters include number of occupants at a given day and time, additional 
-    electrical loads, or any other heat source in the room.</td>
-    <td class="image-column" width=400><img src="ScriptsData/Images/SimscapeBuildingHeatLoadREADME.png" alt="Building Heat Load Analysis Canvas"></td>
-    <td class="image-column" width=400><img src="ScriptsData/Images/SimscapeBuildingSimulationREADME.gif" alt="Building Heat Load Analysis Results"></td>
-  </tr>
-</table>
- 
-<table>
-  <tr>
-    <td class="text-column" width=1200></td>
-  </tr>
-</table>
-
-<hr color="gray" size="10">
-
-
 
 ## To Get Started 
 * Clone the project repository.
