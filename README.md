@@ -4,6 +4,18 @@
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=simscape/Building-Energy-Management-Simscape)
  
+## Recommended Toolchain for Data Center Cooling System Modeling
+
+A professional workflow for modeling and optimizing data center cooling systems typically combines high-fidelity CFD with system-level simulation and control design.
+
+| System Layer | Tool | Purpose |
+|---|---|---|
+| Rack Airflow | OpenFOAM / ANSYS Fluent | High-fidelity CFD simulation of airflow distribution, hot-spot detection, and rack-level thermal behavior |
+| Cooling System Loop | Simscape Fluids | System-level modeling of coolant loops, pumps, heat exchangers, and thermal networks |
+| Control Systems | Simulink | Development and testing of control strategies for cooling equipment (fans, pumps, chillers) |
+| Optimization & Analysis | MATLAB | Parameter studies, system optimization, and performance analysis |
+
+### Typical Modeling Architecture
 
 
 <table>
