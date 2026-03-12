@@ -17,10 +17,9 @@ A professional workflow for modeling and optimizing data center cooling systems 
 | Control Systems | Simulink | Development and testing of control strategies for cooling equipment (fans, pumps, chillers) |
 | Optimization & Analysis | MATLAB | Parameter studies, system optimization, and performance analysis |
 
-### Typical Modeling Architecture
+### Modeling Architecture
 [![View Building Energy Management System with Simscape on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://mathworks.com/matlabcentral/fileexchange/175604-building-energy-management-system-with-simscape)
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=simscape/Building-Energy-Management-Simscape)
 
 <table>
   
