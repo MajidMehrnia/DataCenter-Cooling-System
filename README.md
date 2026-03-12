@@ -1,5 +1,10 @@
 # Advanced Thermal Management for Data Centers
-
+<tr>
+    <td class="text-column" width=1200>The project contains utilities 
+    that help you build and analyze a data center from a thermal management 
+    perspective.
+    </td>
+  </tr>
 ## Recommended Toolchain for Data Center Cooling System Modeling
 
 A professional workflow for modeling and optimizing data center cooling systems typically combines high-fidelity CFD with system-level simulation and control design.
@@ -17,12 +22,7 @@ A professional workflow for modeling and optimizing data center cooling systems 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=simscape/Building-Energy-Management-Simscape)
 
 <table>
-  <tr>
-    <td class="text-column" width=1200>The project contains utilities 
-    that help you build and analyze a data center from a thermal management 
-    perspective.
-    </td>
-  </tr>
+  
 </table>
  
 <table>
