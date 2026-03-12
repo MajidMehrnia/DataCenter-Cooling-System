@@ -1,4 +1,4 @@
-# Building Energy Management System with Simscape
+# Advanced Thermal Management for Data Centers
 
 [![View Building Energy Management System with Simscape on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://mathworks.com/matlabcentral/fileexchange/175604-building-energy-management-system-with-simscape)
 
