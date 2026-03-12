@@ -1,9 +1,5 @@
 # Advanced Thermal Management for Data Centers
 
-[![View Building Energy Management System with Simscape on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://mathworks.com/matlabcentral/fileexchange/175604-building-energy-management-system-with-simscape)
-
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=simscape/Building-Energy-Management-Simscape)
- 
 ## Recommended Toolchain for Data Center Cooling System Modeling
 
 A professional workflow for modeling and optimizing data center cooling systems typically combines high-fidelity CFD with system-level simulation and control design.
@@ -16,7 +12,9 @@ A professional workflow for modeling and optimizing data center cooling systems 
 | Optimization & Analysis | MATLAB | Parameter studies, system optimization, and performance analysis |
 
 ### Typical Modeling Architecture
+[![View Building Energy Management System with Simscape on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://mathworks.com/matlabcentral/fileexchange/175604-building-energy-management-system-with-simscape)
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=simscape/Building-Energy-Management-Simscape)
 
 <table>
   <tr>
