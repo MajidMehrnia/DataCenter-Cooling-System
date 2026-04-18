@@ -1,8 +1,8 @@
 # Advanced Data Center Design and Simulation
 <tr>
     <td class="text-column" width=1200>This project provides a framework for modeling and analyzing data center systems with a focus on thermal management and mechanical system performance.
-    </td>
-  </tr>
+  
+
 
   
 *Data Center Base Layout (Designed in AutoCAD)*
