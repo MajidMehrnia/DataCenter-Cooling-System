@@ -3,7 +3,8 @@
     <td class="text-column" width=1200>This project provides a framework for modeling and analyzing data center cooling systems with a focus on thermal management and system performance.
     </td>
   </tr>
-  
+  ![Uploading hvac 19.png…]()
+
 ## Recommended Toolchain for Data Center Cooling System Modeling
 
 A professional workflow for modeling and optimizing data center cooling systems typically combines high-fidelity CFD with system-level simulation and control design.
